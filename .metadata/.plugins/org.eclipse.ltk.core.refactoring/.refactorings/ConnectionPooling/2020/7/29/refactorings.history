@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.gp.connpool.ConnectionPool&apos; to &apos;ConnectionPoolServlet&apos;&#x0D;&#x0A;- Original project: &apos;ConnectionPooling&apos;&#x0D;&#x0A;- Original element: &apos;com.gp.connpool.ConnectionPool&apos;&#x0D;&#x0A;- Renamed element: &apos;com.gp.connpool.ConnectionPoolServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ConnectionPool&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.gp.connpool{ConnectionPool.java[ConnectionPool" matchStrategy="1" name="ConnectionPoolServlet" qualified="false" references="true" similarDeclarations="false" stamp="1594671698703" textual="false" version="1.0"/>
+</session>

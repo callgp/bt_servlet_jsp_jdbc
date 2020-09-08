@@ -1,0 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+
+
+<%!
+
+public void jspInit(){
+	
+	Class.forName("com.mysql.jdbc.driver");
+	con=DriverManager.getConnection("jdbc:mysql://localhost/mydb","root","admin");
+	
+}
+%>

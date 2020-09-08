@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JSPActions/WebContent/openaccount.html&apos; to &apos;ProductDetails.html&apos;" description="Rename resource &apos;openaccount.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/openaccount.html" name="ProductDetails.html" stamp="1594238128886" updateReferences="true"/>
+</session>

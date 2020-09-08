@@ -1,0 +1,22 @@
+package com.gp.advjdbc;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class BatchDAO {
+
+	
+	public static void main(String[] args) {
+		try(Connection con=DriverManager.getConnection("jdbc:mysql://localhost/mydb","root","admin");
+				
+				){
+			
+			
+		
+	} catch (SQLException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+}
+}

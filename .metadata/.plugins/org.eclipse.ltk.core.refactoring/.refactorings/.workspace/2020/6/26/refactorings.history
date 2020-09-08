@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PreparedStatement&apos; to &apos;PreparedStatementNotWorking&apos;" description="Rename resource &apos;PreparedStatement&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/PreparedStatement" name="PreparedStatementNotWorking" stamp="1592858355120" updateReferences="true"/>
+</session>

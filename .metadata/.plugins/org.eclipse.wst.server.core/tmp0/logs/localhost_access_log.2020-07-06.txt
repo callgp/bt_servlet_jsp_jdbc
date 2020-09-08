@@ -1,0 +1,16 @@
+127.0.0.1 - - [06/Jul/2020:22:19:07 -0400] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:19:11 -0400] "GET /AccountJSPEx/openaccount.html HTTP/1.1" 200 348
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:19:30 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 200 12
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:22:28 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:23:47 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:26:02 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:33:31 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 200 371
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:37:47 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 500 2656
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:40:22 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 500 2656
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:41:24 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 500 2874
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:42:35 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 500 2867
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:43:29 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 500 2867
+127.0.0.1 - - [06/Jul/2020:22:46:55 -0400] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:47:24 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 500 2865
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:53:56 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 500 2865
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:22:54:36 -0400] "POST /AccountJSPEx/openaccount.jsp HTTP/1.1" 500 2865

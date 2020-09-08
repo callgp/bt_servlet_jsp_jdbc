@@ -1,0 +1,15 @@
+package com.gp.advjdbc;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class BatchDAO {
+
+	
+	public static void main(String[] args) {
+		try(Connectionction con=DriverManager.getConnection("jdbc:mysql://localhost/mydb","root","admin");
+				
+				)
+	}
+	}
+}

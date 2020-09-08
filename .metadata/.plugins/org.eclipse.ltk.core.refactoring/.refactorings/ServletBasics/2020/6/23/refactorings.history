@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.gp.servlet&apos; to &apos;ServletBasicsTwo/src&apos;&#x0D;&#x0A;- Original project: &apos;ServletBasics&apos;&#x0D;&#x0A;- Destination element: &apos;ServletBasicsTwo/src&apos;&#x0D;&#x0A;- Original element: &apos;ServletBasics/src/com.gp.servlet&apos;" description="Copy package" destination="=ServletBasicsTwo/src" element1="/src&lt;com.gp.servlet" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1591238572700" version="1.0"/>
+</session>
