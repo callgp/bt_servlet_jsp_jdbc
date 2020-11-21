@@ -60,7 +60,7 @@
          APR (HTTP/AJP) Connector: /docs/apr.html
          Define a non-SSL/TLS HTTP/1.1 Connector on port 8080
     -->
-    <Connector connectionTimeout="20000" port="8080" protocol="HTTP/1.1" redirectPort="8443"/>
+    <Connector connectionTimeout="20000" port="65535" protocol="HTTP/1.1" redirectPort="8443"/>
     <!-- A "Connector" using the shared thread pool-->
     <!--
     <Connector executor="tomcatThreadPool"
@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="JSPErrorHandling" path="/JSPErrorHandling" reloadable="true" source="org.eclipse.jst.jee.server:JSPErrorHandling"/><Context docBase="JSPActions" path="/JSPActions" reloadable="true" source="org.eclipse.jst.jee.server:JSPActions"/><Context docBase="MVCDemo" path="/MVCDemo" reloadable="true" source="org.eclipse.jst.jee.server:MVCDemo"/><Context docBase="CustomTags" path="/CustomTags" reloadable="true" source="org.eclipse.jst.jee.server:CustomTags"/><Context docBase="JSTLTags" path="/JSTLTags" reloadable="true" source="org.eclipse.jst.jee.server:JSTLTags"/><Context docBase="WebSecurity" path="/WebSecurity" reloadable="true" source="org.eclipse.jst.jee.server:WebSecurity"/><Context docBase="FormBasedWebSecurity" path="/FormBasedWebSecurity" reloadable="true" source="org.eclipse.jst.jee.server:FormBasedWebSecurity"/><Context docBase="ConnectionPooling" path="/ConnectionPooling" reloadable="true" source="org.eclipse.jst.jee.server:ConnectionPooling"/></Host>
+      <Context docBase="REST2" path="/REST2" reloadable="true" source="org.eclipse.jst.j2ee.server:REST2"/><Context docBase="TestDynamicWeb" path="/TestDynamicWeb" reloadable="true" source="org.eclipse.jst.jee.server:TestDynamicWeb"/></Host>
     </Engine>
   </Service>
 </Server>

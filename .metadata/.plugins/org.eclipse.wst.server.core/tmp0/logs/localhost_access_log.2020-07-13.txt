@@ -1,2 +1,0 @@
-127.0.0.1 - - [13/Jul/2020:16:27:31 -0400] "GET / HTTP/1.1" 404 1073
-0:0:0:0:0:0:0:1 - - [13/Jul/2020:16:27:33 -0400] "GET /ConnectionPooling/ConnectionPool HTTP/1.1" 200 -

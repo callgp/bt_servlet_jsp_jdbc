@@ -19,13 +19,10 @@
     <!-- Default set of monitored resources. If one of these changes, the    -->
     <!-- web application will be reloaded.                                   -->
     <WatchedResource>WEB-INF/web.xml</WatchedResource>
-    <WatchedResource>WEB-INF/tomcat-web.xml</WatchedResource>
     <WatchedResource>${catalina.base}/conf/web.xml</WatchedResource>
 
     <!-- Uncomment this to disable session persistence across Tomcat restarts -->
     <!--
     <Manager pathname="" />
     -->
-    
-    <Resource name="myds" auth="Container"  type="javax.sql.Datasource" driverClassName="com.mysql.jdbc.Driver" url="jdbc:mysql://localhost/mydb" username="root" password="admin"/>
 </Context>

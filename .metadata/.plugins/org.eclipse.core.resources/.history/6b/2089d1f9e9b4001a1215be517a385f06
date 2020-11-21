@@ -1,5 +1,0 @@
-package com.gp.servlet.annotation.preparedstatement;
-
-public class ProductServlet {
-
-}
