@@ -8,4 +8,5 @@
 <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
 <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
 <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+<fullyQualifiedTypeName name="com.bt.spring.SpringCore.Employee"/>
 </qualifiedTypeNameHistroy>

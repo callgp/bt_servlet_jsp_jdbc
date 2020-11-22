@@ -1684,3 +1684,122 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated 
 2020-11-22 16:42:27,075 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
 2020-11-22 16:43:00,941 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-11-22 16:43:00,948 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:43:00,950 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:43:00,961 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 16:46:45,838 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:46:45,848 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:46:45,849 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:46:45,864 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 16:46:46,938 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:46:46,958 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:46:46,963 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:46:46,992 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 16:47:48,070 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:47:48,078 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:47:48,082 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:47:48,095 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 16:50:13,133 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:50:13,143 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:50:13,145 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:50:13,154 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 16:50:30,004 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:50:30,015 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:50:30,016 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:50:30,027 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 16:50:40,216 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:50:40,227 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:50:40,229 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:50:40,240 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 16:50:50,632 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:50:50,643 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:50:50,645 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:50:50,656 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 16:51:17,543 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:51:17,554 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 16:51:17,555 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 16:51:17,567 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:07:57,123 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:07:57,132 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:07:57,133 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:07:57,141 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:09:15,242 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:09:15,251 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:09:15,253 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:09:15,264 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:09:19,872 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:09:19,883 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:09:19,886 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:09:19,897 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:09:25,096 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:09:25,105 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:09:25,106 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:09:25,117 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:10:15,795 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:10:15,802 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:10:15,803 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:10:15,814 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:10:18,075 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:10:18,083 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:10:18,084 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:10:18,093 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:10:24,910 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\gp\workspace_neon_bt_j2ee\SpringCore
+2020-11-22 17:10:24,911 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-22 17:10:37,172 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:10:37,179 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:10:37,180 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:10:37,190 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:24:29,466 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:24:29,477 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:24:29,480 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:24:29,492 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:26:21,162 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\gp\workspace_neon_bt_j2ee\SpringCore
+2020-11-22 17:26:21,162 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-22 17:26:23,693 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:26:23,704 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:26:23,705 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:26:23,712 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:26:31,129 [Worker-73] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\gp\workspace_neon_bt_j2ee\SpringCore
+2020-11-22 17:26:31,130 [Worker-73] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-22 17:26:38,698 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:26:38,707 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:26:38,708 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:26:38,717 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:29:18,811 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:29:18,822 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:29:18,823 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:29:18,833 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:29:29,183 [Worker-76] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\gp\workspace_neon_bt_j2ee\SpringCore
+2020-11-22 17:29:29,183 [Worker-76] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-22 17:29:31,604 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:29:31,615 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:29:31,618 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:29:31,629 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:29:39,014 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\gp\workspace_neon_bt_j2ee\SpringCore
+2020-11-22 17:29:39,015 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-22 17:29:42,812 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:29:42,819 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:29:42,820 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:29:42,827 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:30:56,371 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bt.spring:SpringCore:0.0.1-SNAPSHOT @ C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\pom.xml.
+2020-11-22 17:30:56,764 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:30:56,771 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:30:56,772 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:30:56,778 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:30:58,324 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:30:58,333 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:30:58,334 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:30:58,342 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
+2020-11-22 17:34:04,701 [Worker-70] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-22 17:34:05,190 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bt.spring:SpringCore:0.0.1-SNAPSHOT @ C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\pom.xml.
+2020-11-22 17:34:05,621 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: co.edureka:REST2:0.0.1-SNAPSHOT @ C:\Users\gp\workspace_neon_bt_j2ee\REST2\pom.xml.
+2020-11-22 17:34:07,013 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCore/src/main/java
+2020-11-22 17:34:07,014 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCore/src/test/java
+2020-11-22 17:34:07,830 [Worker-70] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-11-22 17:34:08,341 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:34:08,405 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-22 17:34:08,406 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:34:08,416 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\REST2\src\test\resources
+2020-11-22 17:34:08,581 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:34:08,591 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\main\resources
+2020-11-22 17:34:08,592 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 17:34:08,602 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\SpringCore\src\test\resources
