@@ -7,18 +7,23 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-	<bean class="com.gp.spring.springcoreadvanced.autowiring.Address" name="adr"
+	<bean class="com.gp.spring.springcoreadvanced.autowiring.byname.Address" name="address"
 		p:hno="1234" p:street="maon" p:city="atl">
 
 	</bean>
 	
+	<bean class="com.gp.spring.springcoreadvanced.autowiring.byname.Address" name="address2"
+		p:hno="1234" p:street="maon" p:city="atl">
+
+	</bean>
+	<!-- here as above ok to have different beans with different names but matches name so only one output-->
 	
 <!-- 	<bean class="com.gp.spring.springcoreadvanced.autowiring.Address" name="adr2"
 		p:hno="1234" p:street="maon" p:city="atl">
 
 	cannot give same bean again with different name</bean> -->
 
-	<bean class="com.gp.spring.springcoreadvanced.autowiring.Employee" name="emp" autowire="byType"/>
+	<bean class="com.gp.spring.springcoreadvanced.autowiring.byname.Employee" name="emp" autowire="byName"/>
 		
 
 
