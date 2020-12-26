@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd"
+    	xmlns:c="http://www.springframework.org/schema/c">
+
+	<bean class="com.gp.spring.constructorinjection_c_schema.Address" name="adr"
+		p:hno="1234" p:street="maon" p:city="atl">
+
+	</bean>
+
+	<bean class="com.gp.spring.constructorinjection_c_schema.Employee" name="emp" c:id="234" c:address-ref="adr">
+		<!-- <constructor-arg>
+			<value>
+				123
+			</value>
+		</constructor-arg>
+		<constructor-arg>
+			<ref bean="adr" />
+		</constructor-arg> -->
+		
+		
+		<!-- 	<constructor-arg value ="123">
+			<value>
+				123
+			</value>
+		</constructor-arg>
+		<constructor-arg ref="adr">
+			<ref bean="adr" />
+		</constructor-arg> -->
+		
+	</bean>
+
+
+</beans>
