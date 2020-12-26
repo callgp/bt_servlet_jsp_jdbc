@@ -9,7 +9,7 @@
 
 	<!-- <bean name="emp" class="com.bt.spring.SpringCore.Employee" p:id="20" 
 		p:name="gp" /> -->
-	<bean name="emp" class="com.bt.spring.SpringCore.Employee">
+	<bean name="emp" class="com.gp.spring.springcore.Employee">
 		<property name="id">
 			<value>20</value>
 		</property>
@@ -17,4 +17,6 @@
 			<value>gp</value>
 		</property>
 	</bean>
+	
+
 </beans>

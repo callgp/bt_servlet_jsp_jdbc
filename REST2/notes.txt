@@ -1,5 +1,0 @@
-worked with tomcat 8.5
-i changed on eclipse tocat and changed 8080 to 65535
-url i used is\
-http://localhost:65535/REST2/rest/edureka/nri goes to nri method sop
-http://localhost:65535/REST2/rest/edureka goes to defaut local method sop\
