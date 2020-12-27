@@ -1,4 +1,0 @@
-clean ,m2 to make classpathxmlcontext to load in main test class
-
-also mov config xml to src main java root level to make it work
-https://www.youtube.com/watch?v=ZxLaEovze3M
