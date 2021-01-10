@@ -11281,3 +11281,9 @@ java.io.IOException: http://jope.ow2.org/update/jope/ is not a valid repository 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-02 19:54:46.589
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-02 19:57:27.833
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-02 19:57:27.858
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -5379,3 +5379,33 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-01-02 19:54:46,586 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\springjdbc\src\main\resources
 2021-01-02 19:54:46,588 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-01-02 19:54:46,594 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\springjdbc\src\test\resources
+2021-01-02 19:57:27,832 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-02 19:57:27,851 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\springjdbc\src\main\resources
+2021-01-02 19:57:27,857 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-02 19:57:27,870 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\springjdbc\src\test\resources
+2021-01-02 20:00:15,666 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\pom.xml
+2021-01-02 20:00:17,146 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gp.spring:autowirejdbctemplate:0.0.1-SNAPSHOT @ C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\pom.xml.
+2021-01-02 20:00:17,617 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /autowirejdbctemplate/src/main/java
+2021-01-02 20:00:17,627 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /autowirejdbctemplate/src/test/java
+2021-01-02 20:00:17,746 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2021-01-02 20:00:18,636 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-02 20:00:18,636 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\src\main\resources
+2021-01-02 20:00:18,637 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-02 20:00:18,638 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\src\test\resources
+2021-01-02 20:00:40,974 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-02 20:00:40,975 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\src\main\resources
+2021-01-02 20:00:40,976 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-02 20:00:40,977 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\src\test\resources
+2021-01-02 20:01:34,039 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\pom.xml
+2021-01-02 20:01:34,620 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gp.spring:autowirejdbctemplate:0.0.1-SNAPSHOT @ C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\pom.xml.
+2021-01-02 20:01:34,901 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /autowirejdbctemplate/src/main/java
+2021-01-02 20:01:34,908 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /autowirejdbctemplate/src/test/java
+2021-01-02 20:01:35,009 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-01-02 20:01:35,699 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-02 20:01:35,699 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\src\main\resources
+2021-01-02 20:01:35,700 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-02 20:01:35,700 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\src\test\resources
+2021-01-02 20:02:01,027 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-02 20:02:01,028 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\src\main\resources
+2021-01-02 20:02:01,029 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-02 20:02:01,029 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gp\workspace_neon_bt_j2ee\autowirejdbctemplate\src\test\resources
