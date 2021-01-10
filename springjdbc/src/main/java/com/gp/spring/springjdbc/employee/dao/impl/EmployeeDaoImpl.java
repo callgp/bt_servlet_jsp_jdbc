@@ -3,11 +3,13 @@ package com.gp.spring.springjdbc.employee.dao.impl;
 import java.util.List;
 
 import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Component;
 
 import com.gp.spring.springjdbc.employee.dao.EmployeeDAO;
 import com.gp.spring.springjdbc.employee.dao.rowmapper.EmployeeRowMapper;
 import com.gp.spring.springjdbc.employee.dto.Employee;
 
+@Component("employeeDao")
 public class EmployeeDaoImpl implements EmployeeDAO {
 	
 	private JdbcTemplate jdbcTemplate;
